@@ -1,3 +1,4 @@
+<img src="https://github.com/MariyaGvozdetskaya/MariyaGvozdetskaya/blob/main/banner.png?raw=true" alt="banner" width="100%">
 # 💼 QA Портфолио
 
 Добро пожаловать в моё QA-портфолио! Здесь собраны примеры тестовой документации, Postman-коллекции, SQL-запросы.
