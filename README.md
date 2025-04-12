@@ -29,6 +29,6 @@
 
 ## 📫 Контакты
 
- 📧 Email: m.kalyackina@yandex.ru
- 💻 Telegram: [@gvozdetskaya_mi](https://t.me/gvozdetskaya_mi)
+- 📧 Email: m.kalyackina@yandex.ru
+- 💻 Telegram: [@gvozdetskaya_mi](https://t.me/gvozdetskaya_mi)
 
