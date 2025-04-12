@@ -4,8 +4,8 @@
 
 ## 🛠 Стек технологий
 
-- **Языки**: SQL, JavaScript (начальный уровень)
-- **Инструменты**: Postman, DevTools, MySQL, VS Code, GitHub, Jira, Confluence
+- **Языки**: SQL, JavaScript (начальный уровень), HTML
+- **Инструменты**: Postman, DevTools, MySQL, VS Code, GitHub, Jira, Confluence, 
 - **Методологии**: тест-дизайн, тест-планирование, баг-репортинг, API-тестирование
 
 ---
@@ -21,14 +21,12 @@
 ## 🔗 API&SQL
 
 - 📁 **Postman-коллекция**: [Смотреть коллекцию](https://cloudy-sunset-892463.postman.co/workspace/My-Workspace~989518e9-1052-4dea-851a-9bc2a2dc22cb/collection/43339964-fdd4e765-454b-4714-9984-f9af7e606bd5?action=share&creator=43339964&active-environment=43339964-fb6fe106-d732-42f1-a87b-7a0073ff2552)
-- 🐙 **SQL-портфолио**: [sql-bookstore](https://github.com/MariyaGvozdetskaya/sql-bookstore)
+- 📁 **SQL-портфолио**: [sql-bookstore](https://github.com/MariyaGvozdetskaya/sql-bookstore)
 
 ---
 
 ## 📫 Контакты
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 📧 Email: m.kalyackina@yandex.ru
+- 💻 Telegram: [@gvozdetskaya_mi](https://t.me/gvozdetskaya_mi)
 
----
