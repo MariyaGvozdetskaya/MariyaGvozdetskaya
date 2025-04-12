@@ -28,8 +28,8 @@
 
 ## 🧾 Примеры тестовой документации
 
-- [Тест-кейсы](https://example.com/test-cases.pdf)
-- [Баг-репорты](https://example.com/bug-reports)
+- [Тест-кейсы](https://docs.google.com/spreadsheets/d/1CQ3No1rK1AlpXGvkM-nHjU5OdEq-06A8jZUsockDcJs/edit?usp=sharing)
+- [Баг-репорты](https://docs.google.com/spreadsheets/d/1RlOSaCMWXYnr4Suhj8Gqg-sDArDMjRGzBfhPq6sm_EQ/edit?usp=sharing)
 - [Чек-лист](https://docs.google.com/spreadsheets/d/17JLViIXNLENPTae0V0AhDKTwr2PF8BoHz3nTDa3gOxw/edit?usp=sharing)
 
 ---
